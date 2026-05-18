@@ -1,0 +1,10 @@
+/Scrapper/dataset_pokemon_v2
+/Scrapper/progreso.json
+/venv/
+
+
+/Scrapper/*
+
+
+/Augmenter/input
+/Augmenter/output
