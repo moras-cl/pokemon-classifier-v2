@@ -2,9 +2,7 @@
 /Scrapper/progreso.json
 /venv/
 
-
-/Scrapper/*
-
+/Scrapper/progreso.json
 
 /Augmenter/input
 /Augmenter/output
