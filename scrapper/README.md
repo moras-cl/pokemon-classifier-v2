@@ -1,7 +1,7 @@
 # Como Generar un Dataset Propio
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> Al generar un dataset mediante este metodo no se contempla la aumentación de datos, la cual si contiene el dataset por defecto utilizado en el archivo .ipynb.
 
 ``` bash
 python -m venv venv
