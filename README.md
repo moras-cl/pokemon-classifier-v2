@@ -1,6 +1,9 @@
 # pokemon-classifier-v2
 Elaborado por Francisco Cisternas, Diego González e Ignacio Mora.
 
+![Seadra](images/seadra.jpg)
+![SeadraInf](images/seadra_inf.png)
+
 ## Descripción
 Este proyecto presenta un Python Notebook diseñado para la detección de objetos, enfocándose específicamente en los primeros 251 especímenes de la saga Pokémon, los cuales corresponden a las primeras 2 generaciones.
 
@@ -13,7 +16,14 @@ A continuación se listan las librerías más relevantes utilizadas:
 - ``pillow`` o conocido también como ``PIL``, utilizado para el procesamiento y manejo del formato de las imágenes.
 - ``matplotlib``, utilizado para la generación de gráficos y visualización de datos.
 
+## Matriz de Confusión
 
+Debido a la alta cantidad de clases presentes en este proyecto, se optó por un enfoque distinto para la matriz de confusión, mostrando solamente los casos con mayor cantidad de errores.
+
+![Code](images/code.png)
+![CodeRes](images/code-res.png)
+
+Una interpretación de este gráfico, junto con el resto de las métricas se encuentra dentro del archivo ``pokemon-classifier-v2.ipynb``.
 
 ## Puesta en Marcha
 ### Obtención del Dataset
@@ -22,6 +32,9 @@ Para obtener el dataset se utilizó Web Scrapping, el cual se encuentra disponib
 /pokemon-classifier-v2/scrapper
 ```
 Es en esta ruta donde se encuentran las instrucciones para ejecutar el script localmente. 
+
+### Obtencion de los Modelos
+Para obtener los modelos se puede ejecutar directamente el archivo ``pokemon-classifier-v2.ipynb`` en Google Colab u obtenerlos mediante las carpeta de modelos que se encuentran en el repositorio.
 
 ### Google Colab
 Este notebook fue diseñado originalmente para ejecutarse en entornos de Google Colab aprovechando la aceleración por GPU de las unidades T4.
@@ -32,5 +45,4 @@ Este notebook fue diseñado originalmente para ejecutarse en entornos de Google 
 2. Asegurarse de cambiar el entorno de ejecución para utilizar la aceleración por hardware.
     - Ir a ``Entorno de ejecución`` > ``Cambiar tipo de entorno de ejecución``.
     - Seleccionar la opción ``T4 GPU``.
-3. Ceder los permisos de conexión a Google Drive, debido a que el entorno está pensado para trabajar directamente desde ahí.
 4. Ejecutar secuencialmente las celdas para descargar un dataset por defecto creado a partir del script encontrado en ``/pokemon-classifier-v2/scrapper``.
