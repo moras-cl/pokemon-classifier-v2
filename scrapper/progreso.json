@@ -1,0 +1,308 @@
+{
+  "gen1_1": {
+    "nombre": "Bulbasaur",
+    "generacion": "gen1",
+    "imagenes": 527,
+    "completo": true
+  },
+  "gen1_2": {
+    "nombre": "Ivysaur",
+    "generacion": "gen1",
+    "imagenes": 586,
+    "completo": true
+  },
+  "gen1_3": {
+    "nombre": "Venusaur",
+    "generacion": "gen1",
+    "imagenes": 631,
+    "completo": true
+  },
+  "gen1_4": {
+    "nombre": "Charmander",
+    "generacion": "gen1",
+    "imagenes": 606,
+    "completo": true
+  },
+  "gen1_5": {
+    "nombre": "Charmeleon",
+    "generacion": "gen1",
+    "imagenes": 588,
+    "completo": true
+  },
+  "gen1_6": {
+    "nombre": "Charizard",
+    "generacion": "gen1",
+    "imagenes": 659,
+    "completo": true
+  },
+  "gen1_7": {
+    "nombre": "Squirtle",
+    "generacion": "gen1",
+    "imagenes": 601,
+    "completo": true
+  },
+  "gen1_8": {
+    "nombre": "Wartortle",
+    "generacion": "gen1",
+    "imagenes": 576,
+    "completo": true
+  },
+  "gen1_9": {
+    "nombre": "Blastoise",
+    "generacion": "gen1",
+    "imagenes": 618,
+    "completo": true
+  },
+  "gen1_10": {
+    "nombre": "Caterpie",
+    "generacion": "gen1",
+    "imagenes": 566,
+    "completo": true
+  },
+  "gen1_11": {
+    "nombre": "Metapod",
+    "generacion": "gen1",
+    "imagenes": 483,
+    "completo": true
+  },
+  "gen1_12": {
+    "nombre": "Butterfree",
+    "generacion": "gen1",
+    "imagenes": 613,
+    "completo": true
+  },
+  "gen1_13": {
+    "nombre": "Weedle",
+    "generacion": "gen1",
+    "imagenes": 509,
+    "completo": true
+  },
+  "gen1_14": {
+    "nombre": "Kakuna",
+    "generacion": "gen1",
+    "imagenes": 525,
+    "completo": true
+  },
+  "gen1_15": {
+    "nombre": "Beedrill",
+    "generacion": "gen1",
+    "imagenes": 607,
+    "completo": true
+  },
+  "gen1_16": {
+    "nombre": "Pidgey",
+    "generacion": "gen1",
+    "imagenes": 559,
+    "completo": true
+  },
+  "gen1_17": {
+    "nombre": "Pidgeotto",
+    "generacion": "gen1",
+    "imagenes": 561,
+    "completo": true
+  },
+  "gen1_18": {
+    "nombre": "Pidgeot",
+    "generacion": "gen1",
+    "imagenes": 578,
+    "completo": true
+  },
+  "gen1_19": {
+    "nombre": "Rattata",
+    "generacion": "gen1",
+    "imagenes": 526,
+    "completo": true
+  },
+  "gen1_20": {
+    "nombre": "Raticate",
+    "generacion": "gen1",
+    "imagenes": 565,
+    "completo": true
+  },
+  "gen1_21": {
+    "nombre": "Spearow",
+    "generacion": "gen1",
+    "imagenes": 546,
+    "completo": true
+  },
+  "gen1_22": {
+    "nombre": "Fearow",
+    "generacion": "gen1",
+    "imagenes": 560,
+    "completo": true
+  },
+  "gen1_23": {
+    "nombre": "Ekans",
+    "generacion": "gen1",
+    "imagenes": 544,
+    "completo": true
+  },
+  "gen1_24": {
+    "nombre": "Arbok",
+    "generacion": "gen1",
+    "imagenes": 562,
+    "completo": true
+  },
+  "gen1_25": {
+    "nombre": "Pikachu",
+    "generacion": "gen1",
+    "imagenes": 622,
+    "completo": true
+  },
+  "gen1_26": {
+    "nombre": "Raichu",
+    "generacion": "gen1",
+    "imagenes": 602,
+    "completo": true
+  },
+  "gen1_27": {
+    "nombre": "Sandshrew",
+    "generacion": "gen1",
+    "imagenes": 564,
+    "completo": true
+  },
+  "gen1_28": {
+    "nombre": "Sandslash",
+    "generacion": "gen1",
+    "imagenes": 571,
+    "completo": true
+  },
+  "gen1_29": {
+    "nombre": "Nidoran♀",
+    "generacion": "gen1",
+    "imagenes": 541,
+    "completo": true
+  },
+  "gen1_30": {
+    "nombre": "Nidorina",
+    "generacion": "gen1",
+    "imagenes": 540,
+    "completo": true
+  },
+  "gen1_31": {
+    "nombre": "Nidoqueen",
+    "generacion": "gen1",
+    "imagenes": 585,
+    "completo": true
+  },
+  "gen1_32": {
+    "nombre": "Nidoran♂",
+    "generacion": "gen1",
+    "imagenes": 537,
+    "completo": true
+  },
+  "gen1_33": {
+    "nombre": "Nidorino",
+    "generacion": "gen1",
+    "imagenes": 556,
+    "completo": true
+  },
+  "gen1_34": {
+    "nombre": "Nidoking",
+    "generacion": "gen1",
+    "imagenes": 592,
+    "completo": true
+  },
+  "gen1_35": {
+    "nombre": "Clefairy",
+    "generacion": "gen1",
+    "imagenes": 550,
+    "completo": true
+  },
+  "gen1_36": {
+    "nombre": "Clefable",
+    "generacion": "gen1",
+    "imagenes": 531,
+    "completo": true
+  },
+  "gen1_37": {
+    "nombre": "Vulpix",
+    "generacion": "gen1",
+    "imagenes": 573,
+    "completo": true
+  },
+  "gen1_38": {
+    "nombre": "Ninetales",
+    "generacion": "gen1",
+    "imagenes": 578,
+    "completo": true
+  },
+  "gen1_39": {
+    "nombre": "Jigglypuff",
+    "generacion": "gen1",
+    "imagenes": 543,
+    "completo": true
+  },
+  "gen1_40": {
+    "nombre": "Wigglytuff",
+    "generacion": "gen1",
+    "imagenes": 544,
+    "completo": true
+  },
+  "gen1_41": {
+    "nombre": "Zubat",
+    "generacion": "gen1",
+    "imagenes": 537,
+    "completo": true
+  },
+  "gen1_42": {
+    "nombre": "Golbat",
+    "generacion": "gen1",
+    "imagenes": 513,
+    "completo": true
+  },
+  "gen1_43": {
+    "nombre": "Oddish",
+    "generacion": "gen1",
+    "imagenes": 520,
+    "completo": true
+  },
+  "gen1_44": {
+    "nombre": "Gloom",
+    "generacion": "gen1",
+    "imagenes": 577,
+    "completo": true
+  },
+  "gen1_45": {
+    "nombre": "Vileplume",
+    "generacion": "gen1",
+    "imagenes": 563,
+    "completo": true
+  },
+  "gen1_46": {
+    "nombre": "Paras",
+    "generacion": "gen1",
+    "imagenes": 600,
+    "completo": true
+  },
+  "gen1_47": {
+    "nombre": "Parasect",
+    "generacion": "gen1",
+    "imagenes": 576,
+    "completo": true
+  },
+  "gen1_48": {
+    "nombre": "Venonat",
+    "generacion": "gen1",
+    "imagenes": 533,
+    "completo": true
+  },
+  "gen1_49": {
+    "nombre": "Venomoth",
+    "generacion": "gen1",
+    "imagenes": 538,
+    "completo": true
+  },
+  "gen1_50": {
+    "nombre": "Diglett",
+    "generacion": "gen1",
+    "imagenes": 499,
+    "completo": true
+  },
+  "gen1_51": {
+    "nombre": "Dugtrio",
+    "generacion": "gen1",
+    "imagenes": 519,
+    "completo": true
+  }
+}
